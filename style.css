@@ -1,0 +1,62 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav li{
+    display: inline;
+    margin: 10px;
+
+}
+body{
+    
+    margin-left: 80px;
+    margin-right: 100px;
+}
+.conteudo-main{
+    display: flex;
+}
+    
+    
+
+.Texto-Principal{
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+.Texto-Principal2{
+    font-weight: normal;
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #363636;
+
+
+
+}
+.Homem-Digital{
+    align-items: right;
+    width: 50em;
+}
+
+.btn{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 4px 2px 4px 2px ;
+    border: 2px solid #dd499d;
+    border-radius: 15%;
+    transition: 0.7s;
+    
+    
+    
+}
+.btn:hover{
+    color: white;
+    transition: 0.7s;
+    background-color: #dd499d;
+}
